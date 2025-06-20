@@ -7,8 +7,8 @@
 #include <WebServer.h> //do not forgot to import the web-server-file
 
 // Replace with your Wi-Fi credentials
-const char* ssid = "Pranjal_2.4";
-const char* password = "PK@98400";
+const char* ssid = "ssid";
+const char* password = "Password";
 
 const int ledPin = 2; //defult led pin of esp32 
 
